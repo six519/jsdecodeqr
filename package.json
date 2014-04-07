@@ -1,0 +1,27 @@
+{
+  "name": "jsdecodeqr",
+  "version": "0.0.1",
+  "description": "Decode QR code image file using libdecodeqr (Node Addon in C++)",
+  "main": "./lib/jsdecodeqr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/six519/jsdecodeqr"
+  },
+  "keywords": [
+    "QR",
+    "decoder",
+    "C++",
+    "Addons"
+  ],
+  "author": "Ferdinand E. Silva",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/six519/jsdecodeqr/issues"
+  },
+  "homepage": "https://github.com/six519/jsdecodeqr"
+}
