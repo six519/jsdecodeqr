@@ -1,6 +1,6 @@
 {
   "name": "jsdecodeqr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Decode QR code image file using libdecodeqr (Node Addon in C++)",
   "main": "./lib/jsdecodeqr.js",
   "scripts": {
