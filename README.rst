@@ -15,8 +15,8 @@ Building and Installing
 
 	npm install jsdecodeqr
 
-Python Sample Usage
-===================
+Node.js Sample Usage
+====================
 ::
 
 	var jsdecodeqr = require("jsdecodeqr");
